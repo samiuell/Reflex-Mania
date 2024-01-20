@@ -1,11 +1,11 @@
-Reflex Mania 
+# Reflex Mania 
 
 
-PURPOSE
+## PURPOSE
 
 This program was made in 2022 as the final project for ICS 3UI, in which we were tasked with making a game in python using repl.it. This project served as a way to strengthen skills with tkinter, and hopefully, make something fun along the way. 
 
-HOW TO PLAY
+## HOW TO PLAY
 
 This project was inspired by the beloved arcade game Guitar Hero. The objective is to "catch" the falling arrows as they overlap their outlines by pressing their corresponding arrow key. Every time you succesfully catch an arrow your score will increase, but every time you fail you will loose a life. The game displays your score, current combo (how many arrows you've caught in a row), and your lives as you play. 
 
